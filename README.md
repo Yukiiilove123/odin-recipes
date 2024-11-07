@@ -1,1 +1,1 @@
-# odin-recipes
+Hiii This is my First project while going through the odin project. by completing this project, it demonstrates that I can create a basic html file. for this Project, I'll be creating a page about Japanese food from one of my favorite animes, Demon slayer! I hope you like the website!!
